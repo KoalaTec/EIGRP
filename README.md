@@ -1,0 +1,1 @@
+EIGRP (Enhanced Interior Gateway Routing Protocol) is a Cisco proprietary routing protocol used within a network. it combines the features of distance-vector and link-state protocol, offering fast convergence and efficient routing. EIGRP uses the DUAL algorithm to find the best path and supports multiple protocols like IPv4 and IPv6.
